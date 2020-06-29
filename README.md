@@ -8,7 +8,7 @@ This repo contains the Data Science API for Kondoboard, a platform that allows L
 - [Usage](#usage)
 - [Testing](#testing)
 - [API](#api)
-- [Future Features](#[future featrues])
+- [Future Features]
 - [License](#license)
 
 
