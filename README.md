@@ -2,7 +2,7 @@
 
 This repo contains the Data Science API for Kondoboard, a platform that allows Lambda School students to browse, save, and track job postings during the job hunt. 
 
-I have filmed a [video walk through](https://www.youtube.com/watch?v=A9BvUTblCwk) for this project, and the repo for the ETL can be found [here](https://github.com/kellischeuble/kondoboard-etl)
+I have filmed a [video walk through](https://www.youtube.com/watch?v=A9BvUTblCwk) for this project, and the repo for the ETL can be found [here](https://github.com/kellischeuble/kondoboard-etl).
 
 ## Table of Contents
 - [Diagrams](#diagrams)
